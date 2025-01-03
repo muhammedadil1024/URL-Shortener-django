@@ -16,7 +16,3 @@ def index(request):
         return render(request, "index.html", {"short_url": short_url, "url": url})
     except:
         return render(request, 'index.html')
-
-    
-
-    
