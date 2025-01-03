@@ -2,7 +2,7 @@
 
 ![Django](https://img.shields.io/badge/Django-4.1-green) ![Python](https://img.shields.io/badge/Python-3.9-blue)
 
-![Demo App](/shortner//static/images/demo-shortner.png)
+![Demo App](/static/images/demo-shortner.png)
 
 ## 🧐 About the Project
 
